@@ -1,0 +1,1 @@
+# StocksDetective
